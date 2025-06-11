@@ -1,9 +1,6 @@
 Copyright © 2025 Jarek Dymek
-
 Wszelkie prawa zastrzeżone.
-
 Niniejsza aplikacja oraz jej kod źródłowy stanowią własność intelektualną autora.  
 Kopiowanie, powielanie, rozpowszechnianie lub wykorzystywanie całości lub części aplikacji bez pisemnej zgody autora jest zabronione.
-
 Wszelkie pytania dotyczące licencji lub wykorzystania aplikacji proszę kierować na adres e-mail: jarekdymek@gmail.com  
 telefon: +48 602452637
